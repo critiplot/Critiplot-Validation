@@ -1,5 +1,5 @@
 
-# Critiplot Validation Instructions
+# Critiplot Python Package Validation Instructions
 
 This guide shows how to validate **Critiplot** in Python versions **3.11, 3.12, and 3.13**. 
 _(Recommended: Use Python 3.13 Version)_
@@ -81,8 +81,7 @@ python app.py
 ---
 
 
-Please visit to get more Info & see Repo: https://github.com/aurumz-rgb/Critiplot-main
-
+Please visit to get more Info & see Repo: https://github.com/aurumz-rgb/Critiplot-Package
 
 ![Preview](assets/preview1.png)
 
