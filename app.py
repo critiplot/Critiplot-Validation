@@ -1,6 +1,6 @@
 import critiplot
 
-from critiplot import plot_nos, plot_jbi_case_report, plot_jbi_case_series, plot_grade, plot_robis
+from critiplot import plot_nos, plot_jbi_case_report, plot_jbi_case_series, plot_grade, plot_robis, plot_mmat
 
 # NOS
 plot_nos("tests/sample_nos.csv", "output_nos.png", theme="blue")
@@ -16,3 +16,6 @@ plot_jbi_case_series("tests/sample_jbi_case_series.csv", "output_case_series.png
 
 # GRADE
 plot_grade("tests/sample_grade.csv", "output_grade.png", theme="green")
+
+# MMAT
+plot_mmat("tests/sample_mmat.csv", "output_mmat.png", theme="default")
