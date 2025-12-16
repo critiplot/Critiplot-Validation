@@ -1,7 +1,7 @@
 
-# Critiplot Python Package Validation Instructions **v1.2.2**
+# Critiplot Python Package Validation Instructions **v2.0.0**
 
-This guide shows how to validate **Critiplot** version 1.2.2 in Python versions **3.11, 3.12, and 3.13**. 
+This guide shows how to validate **Critiplot** version 2.0.0 in Python versions **3.11, 3.12, and 3.13**. 
 _(Recommended: Use Python 3.13 Version)_
 
 ---
